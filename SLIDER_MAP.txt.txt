@@ -1,0 +1,7 @@
+SLIDER_MAP.txt
+
+slider-lookdev.html → LookDev passes
+slider-process.html → Process stills
+slider-modeling.html → Modeling breakdown
+slider-lighting.html → Lighting passes
+slider-compositing.html → Comp stages
