@@ -1,0 +1,4 @@
+/// EMBED THIS IN IFRAME MODULE - MAKE SURE TO CHANGE THE SRC URL & THE WIDTH AND HEIGHT TO THE CORRECT SLIDER \\\
+
+<iframe width="2100" height="875" 
+src="https://embed.skinnykidmedia.com/slider-lookdev-01.html?api=1&autoplay=1&loop=1&autopause=0&controls=0&muted=1&playsinline=1" style="width:100%;height:100%;border:0;display:block;" loading="lazy" loading="lazy" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"></iframe>
